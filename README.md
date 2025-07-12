@@ -1,4 +1,4 @@
 # ankit_demo
 This is my first Git Repository. 
 <br>
-Author- Ankit kumar 
+Author- Ankit (prajapati)
